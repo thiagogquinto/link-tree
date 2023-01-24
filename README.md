@@ -1,7 +1,7 @@
 <h1 align="center"> Link Tree </h1>
 
 <p align="center">
-Programa desenvolvido de acordo com o desafio prposto pelo progrma Discover da Rocketseat
+Programa desenvolvido de acordo com o desafio proposto pelo progrma Discover da Rocketseat
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
+
+🚧🚧Projeto ainda não finalizado🚧🚧
 
 O Link Tree é um uma página contendo links com informações relevantes sobre o apresentador.
 
